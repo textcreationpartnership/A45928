@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Instructions and rules to be observed by the muster-master general and his deputies and the officers of the guards of horse, foot and halberdeers, and other the officers of troops and companies of His Majesties army in this kingdom of Ireland. As also all officers, ministers and artificers of the train of artillery and wards here. By the Lord Lieutenant General and General Governour of Ireland.</title>
+            <author>Ireland. Lord Lieutenant (1661-1669 : Ormonde)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45928</idno>
+            <idno type="STC">Wing I240A</idno>
+            <idno type="STC">ESTC R216254</idno>
+            <idno type="EEBO-CITATION">99827994</idno>
+            <idno type="PROQUEST">99827994</idno>
+            <idno type="VID">32420</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45928)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32420)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1911:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Instructions and rules to be observed by the muster-master general and his deputies and the officers of the guards of horse, foot and halberdeers, and other the officers of troops and companies of His Majesties army in this kingdom of Ireland. As also all officers, ministers and artificers of the train of artillery and wards here. By the Lord Lieutenant General and General Governour of Ireland.</title>
+                  <author>Ireland. Lord Lieutenant (1661-1669 : Ormonde)</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Crook, printer to the Kings Most Excellent Majesty, and are to be sold by Samuel Dancer in Castlestreet,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: "Given at his Majesties castle of Dublin the first day of August, 1667.".</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Regulations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32420:1"/>
+            <pb facs="tcp:32420:1" rendition="simple:additions"/>
+            <p>INSTRUCTIONS AND RULES <hi>To be obſerved by the Muſter-maſter General and his Deputies, and the Officers of the Guards of Horſe, Foot and Halberdeers, and other the Officers of Troops and Com<g ref="char:EOLhyphen"/>panies of His</hi> MAjESTIES <hi>Army in this Kingdom of Ireland. As alſo all Officers, Miniſters and Artificers of the Train of Artillery and Wards here.</hi>
+            </p>
+            <p>BY THE Lord Lieutenant General and General Governour of <hi>Ireland.</hi>
+            </p>
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN,</hi> Printed by <hi>John Crook,</hi> Printer to the Kings moſt Excellent Majeſty, and are to be ſold by <hi>Samuel Dancer</hi> in <hi>Caſtleſtreet,</hi> 1667.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:32420:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:32420:2"/>
+            <head>INSTRUCTIONS AND RULES. BY THE Lord Lieutenant General and General Governour of <hi>Ireland.</hi>
+            </head>
+            <opener>
+               <salute>ORMONDE.</salute>
+            </opener>
+            <p n="1">I.</p>
+            <p>THat the Muſter-Maſter General by himſelf and his Deputies, are to muſter all the Guards of Horſe, Foot and Halberdeers, and all the Troops and Companies of his Majeſties Army, Officers, Miniſters and Artificers of the Train of Artillery, ad all Wards within the ſaid Kingdom of <hi>Ireland,</hi> every three moneths at leaſt, or as often as we ſhall think fit.</p>
+            <pb n="4" facs="tcp:32420:3"/>
+            <p n="2">II.</p>
+            <p>That the Deputy Muſter-maſters, who are appointed to muſter the Guards, Troops and Companies, and Train of Ar<g ref="char:EOLhyphen"/>tillery aforeſaid, in their ſeveral Gariſon or Quarters, are not to give notice of their purpoſe ſo to do, until late in the evening. And then they are to give notice to the Governour or Officer, commanding in chief the ſaid Gariſon or Quarter, who is thereupon to have in a readineſs the Troops or Companies early next morning, every Officer and Souldier in his proper Armes and Furniture, at the uſual and accuſtom<g ref="char:EOLhyphen"/>ed place, or ſuch other place as the Deputy Muſter-maſter ſhall appoint. Where the Captain of each Troop and Company is to have in a readineſs two Muſter-Rolls, containing the names of the Officers and Souldiers, fairly written alphabetically ac<g ref="char:EOLhyphen"/>cording to the Sirnames, as is now uſu<g ref="char:EOLhyphen"/>al. And that the Deputy Muſter-maſter
+<pb n="5" facs="tcp:32420:3"/>before he proceeds to muſter the Troop or Company, do take an account of the Ranks and Files of each Troop and Com<g ref="char:EOLhyphen"/>pany; and after he hath ſo numbred them, to call the Officers and Souldiers particu<g ref="char:EOLhyphen"/>larly placing a cypher before their names, ſignifying their being preſent; and if any be abſent, ſick, dead, diſcharged or run away, they are to be written ſo on their names. And after the Roll is ſo called, the Deputy Muſter-maſter is to count the Ranks and Files again, that ſo he may be aſſured there is not any wrong done by the Officers in cauſeſing Souldiers to be muſtered twice, or miſtake on his own part by mark<g ref="char:EOLhyphen"/>ing more or leſs than he ought. And that ſuch men as are to be entertained that muſter in the rooms of any dead, diſchar<g ref="char:EOLhyphen"/>ged or run away, be entered for that Muſter at the latter end of the Roll, and after brought into the Alphabet. After the Muſter, the Deputy Muſter-maſter is to cloſe the Roll with the Officers, accor<g ref="char:EOLhyphen"/>ding
+<pb n="6" facs="tcp:32420:4"/>to the uſual manner, one Roll to be ſigned by the Captain and all Commiſſi<g ref="char:EOLhyphen"/>oned Officers preſent, which is to be delive<g ref="char:EOLhyphen"/>red to the Deputy Muſter maſter to be by him ſent to the Muſter-maſter General; according to which Muſter-Roll, War<g ref="char:EOLhyphen"/>rants are to be drawn for their pay: And the other Roll is to be ſigned by the Depu<g ref="char:EOLhyphen"/>ty Muſter-maſter, which is to be delivered to the Captain, to be produced by him at the next Muſter for an Examining Roll, to the end if any Souldiers be wanting, it may be known what is become of them, whether dead, diſcharged or run away: and that thereby the Muſter-maſter General may be able to render an account to Us from time to time of ſuch Souldiers as are recei<g ref="char:EOLhyphen"/>ved into any Troup or Company in the Army, and thoſe likewiſe that go forth.</p>
+            <p n="3">III.</p>
+            <p>The Muſter-maſter General and his Deputies are not to permit any Officer or Souldier in the Army to paſs muſter, un<g ref="char:EOLhyphen"/>leſs
+<pb n="7" facs="tcp:32420:4"/>they ſhall produce a Certificate under the hand of the Biſhop of the Dioceſs, up<g ref="char:EOLhyphen"/>pon a Certificate made to him under the hand and ſeal of the lawful Miniſter of the Pariſh wherein they are quartered or Ga<g ref="char:EOLhyphen"/>riſoned, that they had received the bleſſed Sacrament of the holy Communion, ac<g ref="char:EOLhyphen"/>cording to the Diſcipline of the Church of <hi>Ireland,</hi> the <hi>Eaſter</hi> or the <hi>Chriſtmaſs</hi> next preceding the ſaid muſter: and this to be done once every year.</p>
+            <p n="4">IV.</p>
+            <p>That no Captain ſhall preſent at the muſter, any Officer or Souldier to be ab<g ref="char:EOLhyphen"/>ſent by Licence, except the ſame be under Our hand, which Licence is to be entred in the Muſter-maſter Generals Office, and the time limited ſet down on the muſter Roll: and that the entertainment of all Non-Commiſſioned Officers &amp; Souldiers, licen<g ref="char:EOLhyphen"/>ced to go out of the Kingdom, be ſtayed in the Treaſurers hands; and if they ſhall re<g ref="char:EOLhyphen"/>turn within the time limited, Warrant
+<pb n="8" facs="tcp:32420:5"/>ſhall be granted forthwith to the Treaſurer for the payment of their whole entertain<g ref="char:EOLhyphen"/>ment during their ſaid Licence: But if they return not within the time limited, then their whole entertainment to be chequed, except they produce a Certificat or Teſti<g ref="char:EOLhyphen"/>monial from the Mayor, or other chief Officer of the Port from whence they ſhall ſhip themſelves, that they were ready to come, but were ſtayed by caſualty of con<g ref="char:EOLhyphen"/>trary winds and weather, or for want of paſſage, or by ſickneſs, And in caſe any Officer or Souldier, who is licenced to be abſent from his duty within the Kingdom, out-ſtay the time limited, then his pay is to be chequed for ſuch time, and the Cheque not to be taken off but by ſpecial Order in writing from Us.</p>
+            <p n="5">V.</p>
+            <p>That if any Officer or Souldier be ab<g ref="char:EOLhyphen"/>ſent from his muſter, then he be returned abſent, and loſe the benefit of ſuch muſter, unleſs it be in caſe of ſickneſs. which is to
+<pb n="9" facs="tcp:32420:5"/>appear by view of the Deputy Muſter-maſter, or by authentick Certificate, if the perſon ſick be far diſtant, or that they have ſpecial Licence from Us as aforeſaid.</p>
+            <p n="6">VI.</p>
+            <p>That no Captain give Licence to any private Souldier under his Command to be abſent above fourteen dayes, and no ſuch Licence to be of force, if any Souldier be abſent at muſter.</p>
+            <p n="7">VII.</p>
+            <p>That no Commiſſion Officer ſhall paſs muſter till he firſt produce his Commiſſion to the Deputy Muſter-maſter, and the ſame entred in the Muſter-maſter Generals Office, to the end he may receive his pay accordingly, and that the Muſter-maſter General may the better render an account to Us of all the Commiſſioned Officers of the Army from time to time, as the ſame ſhall be required.</p>
+            <p n="8">VIII.</p>
+            <p>That if any Officer or Souldier be at
+<pb n="10" facs="tcp:32420:6"/>any time taken priſoner, then, upon atteſta<g ref="char:EOLhyphen"/>tion of the Captain, or other Officer com<g ref="char:EOLhyphen"/>manding the Troop or Company, the ſaid priſoner is to be allowed on the muſters during his impriſonment.</p>
+            <p n="9">IX.</p>
+            <p>That no Officer ſhall entertain any per<g ref="char:EOLhyphen"/>ſon in the room of any Souldier, dead, diſcharged or run away out of any Troop or Company, till the next muſter day, and his pay to commence from that day for<g ref="char:EOLhyphen"/>ward, and not ſooner.</p>
+            <p n="10">X.</p>
+            <p>Taking into Our conſideration the evil conſequence of Officers diſcharging their Souldiers irregularly: No Officer ſhall from henceforth diſcharge any Souldier muſtered in his Troop or Company, until ſuch Souldier be diſcharged by a Court Marſhal, or by order in writing from Us, or by the Souldiers conſent at muſter, up<g ref="char:EOLhyphen"/>on pain of being caſhiered.</p>
+            <pb n="11" facs="tcp:32420:6"/>
+            <p n="11">XI.</p>
+            <p>That no Captain, or other Officer of the Army ſhall in the tender or preſent<g ref="char:EOLhyphen"/>ment of his Muſters, uſe any fraud, practice or deceit, whereby the Muſter-maſter Ge<g ref="char:EOLhyphen"/>neral or his Deputies may be miſled, miſta<g ref="char:EOLhyphen"/>ken or prevented of the due underſtanding of the true ſtate of that Company or Troop: upon pain of loſs of his place, and ſuch other ignominious puniſhment as by a Marſhal Court ſhall be thought fit.</p>
+            <p n="12">XII.</p>
+            <p>That every Officer and Souldier of the Army, and Officers, Miniſters and Artifi<g ref="char:EOLhyphen"/>cers of the Train of Artillery, take the Oathes of Allegiance and Supremacy, or elſe not to be allowed on the Muſters.</p>
+            <p n="13">XIII.</p>
+            <p>That the Officers make no contract or agreement with any of the Souldiers of the Army for leſs pay than is allowed them by His Majeſties Eſtabliſhment, to which end the Muſter-maſter General and his Depu<g ref="char:EOLhyphen"/>ties
+<pb n="12" facs="tcp:32420:7"/>are hereby ſtrictly required to uſe all means poſſible to inquire what Officers do make any ſuch contract, who being ſatisfi<g ref="char:EOLhyphen"/>ed therein, are forthwith to inform Us of the ſame. And ſuch Officers and Souldi<g ref="char:EOLhyphen"/>ers ſo offending, ſhall forthwith be diſchar<g ref="char:EOLhyphen"/>ged the Army, and ſuffer ſuch other puniſh<g ref="char:EOLhyphen"/>ment as we ſhall think fit. And this Our pleaſure we require the Deputy Muſter-maſters to publiſh every Muſter at the head of each Troop and Company, to the end no Officer or Souldier may plead ignorance herein.</p>
+            <p n="14">XIV.</p>
+            <p>That no Souldier be ſuffered to paſs muſter upon a borrowed Horſe, or with borrowed Arms or Furniture, and that his Horſe be ſerviceable, and not under Four<g ref="char:EOLhyphen"/>teen Handfuls high.</p>
+            <p n="15">XV.</p>
+            <p>That the Officers being ſupplied with convenient and neceſſary Arms and Furni<g ref="char:EOLhyphen"/>ture belonging to their ſeveral Troups and
+<pb n="13" facs="tcp:32420:7"/>Companies, the Muſter-maſter General and his Deputies are required to take ſpeci<g ref="char:EOLhyphen"/>al care at the muſters taken by them, that the Souldiers armes be well fixed, and that all the Fire-armes of the Foot be of one bore. And if they ſhall find any Souldi<g ref="char:EOLhyphen"/>ers armes unfixt on the muſter-day, they ſhall mark the ſame on ſuch Souldiers name in the muſter Roll, and the ſaid Souldier ſhall be chequed for every ſuch defective armes the Cheques following, <hi>viz.</hi>
+            </p>
+            <q>
+               <l>For a Sword every moneth two dayes pay;</l>
+               <l>The like for Pikes, Muſquets, Bandaleers,</l>
+               <l>Piſtols, Carbines and Holſters.</l>
+            </q>
+            <p n="16">XVI. That no Souldier that is an Inhabitant of any Town or Garriſon, and a Tradeſ<g ref="char:EOLhyphen"/>man being well able to live of himſelf, ſhall be ſuffered to paſs muſter, unleſs he will re<g ref="char:EOLhyphen"/>ſide conſtantly in his Garriſon, and be fit and ready upon all occaſions for ſervice, to
+<pb n="14" facs="tcp:32420:8"/>be drawn into the field, and be well trained in the exerciſe of his armes.</p>
+            <p n="17">XVII.</p>
+            <p>That no Souldier in muſter anſwer for another, or muſter by a falſe name, upon pain of death, and the Officer that <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſents ſuch Souldier to be caſhiered.</p>
+            <p n="18">XVIII. That the Deputy Muſter maſter have a ſufficient Convoy from Gariſon to Gari<g ref="char:EOLhyphen"/>ſon when they are muſtering.</p>
+            <p n="19">XIX.</p>
+            <p>That no Officer or Souldier preſume to taunt, revile, or pick a quarrel with any of the Deputy Muſter-maſters, but ſhall qui<g ref="char:EOLhyphen"/>etly ſuffer him or them to examine, demand or inquire any Souldiers name, the Country from whence he came, and time of his being in this Kingdom, and to take any note or mark of the Soldiers at his or their pleaſure: And if any Officer or Souldier ſhall offend herein, ſevere puniſhment ſhal be inflicted on him or them, as oppugners of His Majeſties
+<pb n="15" facs="tcp:32420:8"/>Authority, and breakers of our Orders and Inſtructions, as We ſhall think fit.</p>
+            <p n="20">XX.</p>
+            <p>That the Muſter-maſter General do from time to time alter and change his De<g ref="char:EOLhyphen"/>puties to muſter in ſuch Circuits and Pre<g ref="char:EOLhyphen"/>cincts as he in his diſcretion ſhall think fit; and not to permit them to muſter in one and the ſame precinct conſtantly.</p>
+            <p n="21">XXI.</p>
+            <p>That if any of the Deputy Muſter-maſters ſhall at any time abuſe the truſt committed to his care, by conniving with the Officers to make a falſe Muſter, or taking from any Officer or Souldier any bribe or preſent whatſoever upon account of muſter<g ref="char:EOLhyphen"/>ing, he ſhall forfeit his Imployment, and ſuffer ſuch further puniſhment as We ſhall think fit.</p>
+            <p n="22">XXII.</p>
+            <p>For the better putting in execution the aforeſaid Orders and Inſtructions, The Muſter-maſter General and his ſeveral De<g ref="char:EOLhyphen"/>puties
+<pb n="16" facs="tcp:32420:9"/>within this Kingdom, in diſcharge of the great truſt repoſed in them, are re<g ref="char:EOLhyphen"/>quired with all care and diligence ſtrictly to obſerve the ſame. And if any of the ſaid Deputy Muſter-maſters in any meaſure omit, or neglect to put in execution the Rules and Directions before expreſt, he ſhall be diſmiſt from his ſaid Imployment, and ſuffer ſuch other puniſhment as We ſhall think fit. And we require all the Of<g ref="char:EOLhyphen"/>ficers of the Guards, and other the Officers of the Army and Train of Artillery in this His Majeſties Kingdom to take due notice hereof, and to yield due obedience hereunto, as they will anſwer the contrary at their perils.</p>
+            <closer>
+               <dateline>Given at his Majeſties Caſtle of <hi>Dublin</hi> 
+                  <date>the firſt day of <hi>Auguſt,</hi> 1667.</date>
+               </dateline>
+               <signed>G. Lane</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:32420:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
